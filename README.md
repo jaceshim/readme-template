@@ -10,7 +10,7 @@
 > 배포&롤백 가이드 
 
 ## Swagger 
-[링크](http://www.naver.com)
+> [링크](http://www.naver.com)
 
 ## 참고 문서
-[위키](https://www.naver.com)
+> [위키](https://www.naver.com)
