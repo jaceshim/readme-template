@@ -4,7 +4,7 @@
 > 프로젝트에 대한 간단한 설명 문구를 작성합니다.
 
 ## 사용 기술셋
-> * Spring Boot 3.4.1
+  * Spring Boot 3.4.1
   * Kafka X.X.X
   * MysqlX.X
   * Redis X.X 
